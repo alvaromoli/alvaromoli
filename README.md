@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvaromoli
 - 👀 I’m interested in coding, ethical hacking and forensics.
-- 🌱 I’m currently learning to use Metasploit and Kali Linux.
+- 🌱 I’m currently learning to use Kali Linux.
 - 💞️ I’m looking to collaborate on anything.
 
 <!---
